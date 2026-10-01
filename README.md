@@ -46,3 +46,4 @@ pip install "picamera[array]"
 
 * [OpenCV documentation](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
 
+
